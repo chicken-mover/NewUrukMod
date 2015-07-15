@@ -1,0 +1,7 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+205;207;sea;174;1212;967;1212;975;Koloneia-Chalkia
+103;104;sea;2001;623;251;641;267;Axaxaxas-UlMasim
+101;103;sea;2001;610;202;614;224;Tlon-Axaxaxas
+102;103;sea;2001;672;195;637;232;Karphet-Axaxaxas
+100;102;sea;2001;728;151;696;160;Elibom-Karphet
+-1;-1;;-1;-1;-1;-1;-1;-1;

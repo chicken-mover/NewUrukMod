@@ -1,0 +1,8 @@
+government = merchant_republic
+mercantilism = 0.25
+primary_culture = dyrish
+religion = tirspell
+technology_group = western
+capital = 112 #Venezia
+
+national_focus = MIL

@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "GC_NEWURUK"
+	desc = "GC_NEWURUK_DESC"
+	date = 1688.1.1
+
+	country = NUR
+	country = JER
+	country = HEO
+	country = SCY
+	country = NLW
+	country = DYR
+
+}

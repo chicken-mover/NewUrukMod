@@ -1,0 +1,19 @@
+#Uppland, contains Stockholm, Uppsala & Nyköping.
+
+add_core = NUR
+owner = NUR
+controller = NUR
+culture = urusc
+religion = annunaki
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "City of New Uruk"
+is_city = yes
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

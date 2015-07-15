@@ -1,0 +1,7 @@
+NUR = "countries/NewUruk.txt"
+HEO = "countries/Heorot.txt"
+JER = "countries/Jerzil.txt"
+SCY = "countries/Scythia.txt"
+NLW = "countries/Norlaw.txt"
+DYR = "countries/Dyrland.txt"
+HEO = "countries/Heorot.txt"

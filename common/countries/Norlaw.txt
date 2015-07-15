@@ -1,0 +1,47 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 160 29 155 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Sargon #0" = 20
+	"Anba #0" = 20
+	"Kudur #0" = 20
+	"Irarum #0" = 20
+	"Aga #0" = 20
+	"Taba #0" = 20
+}
+
+leader_names = {
+	Tirigan Etana Dumuzid Hablum Teshtu
+}

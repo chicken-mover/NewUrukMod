@@ -1,0 +1,105 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 155 75 155 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Sargun #0" = 20
+	"Anba #0" = 20
+	"Kudur #0" = 20
+	"Irarum #0" = 20
+	"Aga #0" = 20
+	"Taba #0" = -20
+	"Alulim #0" = 20
+	"Alalngar #0" = -20
+	"Ubara #0" = 20
+	"Jushur #0" = 20
+	"Kalubim #0" = 20
+	"Mashda #0" = -20
+	"Balih #0" = -20
+	"Melum-Kish #0" = 20
+	"Tizqar #0" = -20
+	"Enme-Baragesi #0" = 20
+	"Meshkianggasher #0" = -20
+	"Lugulbanda #0" = 20
+	"Dumuzid #0" = 20
+	"Ur-Nungal #0" = 20
+	"Lugal-Kitun #0" = 20
+	"Meshanepada #0" = 20
+	"Elulu #0" = 20
+	"Balulu #0" = -20
+	"Susuda #0" = -20
+	"Dadasig #0" = -20
+	"Mamagal #0" = -20
+	"Kalbum #0" = 20
+	"Tuge #0" = 20
+	"Mennuna #0" = -20
+	"Lugalngu #0" = -20
+	"Hadanish #0" = 20
+	"Enshagkushana #0" = 20
+	"Argandea #0" = 20
+	"Nanni #0" = -20
+	"Anbu #0" = 20
+	"Zizi #0" = -20
+	"Sharrum-Iter #0" = -20
+	"Kugbau #0" = 20
+	"Unzi #0" = 20
+	"Undalulu #0" = 20
+	"Urur #0" = 20
+	"Ishu-Il #0" = 20
+	"Puzur-Suen #0" = 20
+	"Inkishush #0" = -20
+}
+
+leader_names = {
+	Tirigan Etana Dumuzid Hablum Teshtu Zagesi Zababa Zimudar Usiwatar Shamash Nanniya Lugal Rimush Sharkalisharri Irgigi Imi Nanum Ilulu Shudurul Kuda Shulme Silulumesh Yarlagab Igeshaush Kurum Ibranum Laerabum Yarlaganda Utuhengal Amar Shusuen Ibbisuen Ishbi Erra Iddindagan Ishmedagan Dagan Eshtar Ninurta Urdukuga Damiqilishu Iterpisha 
+}
+
+ship_names = {
+	"Great Harvest" Unconquerable Majestic "Faith of the Annunaki" "Silver Horn" Hunter "Good Fortune" "Elder Nomad" "Soldier of Marad" Rhadamanthine "Hill Country" "Lords of Brightness" "Fame Everlasting" Conqueror Intrepid "Renegade Runner" "Black Seas Barracuda" Ukur Ulishin Umun "Great Lioness" Stormlander Enmerkar "Scion of Anu" "Servant of Marduk" "Faithful of Sin" "Oh Sin! Accept My Prayer!" "Beloved of Lu-Erim" "Watcher of Ningin" "Bailiff of Iginudu" "Mournful of Urur" "Apprentice of Kudim" "Guide of Garash" "Sin-Duga" "Inim Annunaki" "Butterfly War" "Weave of Fate" "Grief to the Enemy" "Watcher of the Coast" Fogbound Snail "Sea Serpent" "Glorious War" "Uruk's Majesty" Morningfire Dawnstar Twilight
+}
+
+army_names = {
+	"Erim Uruk Gibil"
+	"Army of $PROVINCE$" 
+}
+
+fleet_names = {
+	"Ma-Erim Uruk Gibil"
+	"Ma-Erim Kusig"
+	"Ma-Erim Urudu"
+	"Ma-Erim Barzil"
+	"Ma-Erim Kubabbar"
+	"Ma-Erim Zabar"
+	"Ma-Ugnim $PROVINCE$"
+}

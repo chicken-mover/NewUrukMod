@@ -1,0 +1,82 @@
+westernsennar = {
+	54 56 57 55 60 58
+	46 47 49
+	61
+	60 48 44 45 59
+}
+
+dyrland_region = {
+	54 56 57 55 58
+}
+
+norlaw_region = {
+	46 47 49
+}
+
+easturuk_region = {
+	16 17 18 19 20 21 22 24 156 150
+}
+
+heorot_region = {
+	25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+}
+
+goingaveden_region = {
+	40 41 42 43
+}
+
+jerzil_region = {
+	62 63 64 65 66 67 68 69
+}
+
+uqbar_region = {
+	100 101 102 103 104
+}
+
+tiravela_region = {
+	12 13 14 15
+}
+
+wuscprovinces_region = {
+	85 86 87 88 89 90 91 92 93 94 95 96
+}
+
+firelands_region = {
+	94 95 96 93
+}
+
+urusc_region = {
+	1 2 3 4 5 6 7 8 9 10 11
+}
+
+newprovinces_region = {
+	70 71 72 73 74 75 76 77 78 79 80 81 82 83 84
+}
+
+tirdara_region = {
+	153 152 151 149 148 150 24 146 156 22 20 18 19 21 17 16 147 23
+}
+
+snowfather_region = {
+	183 184 185 186 187 188 189 190 191 192 193 194 195
+}
+
+usvasaari_region = {
+	214 218 219
+}
+
+scythia_region = {
+	196 197 198 199 200 201 202 203 204 205
+}
+
+zakaria_region = {
+	206 207 208 209
+}
+
+tornrike_region = {
+	97 98 99
+}
+
+southfrontier = {
+	141 142 145 143 144
+}

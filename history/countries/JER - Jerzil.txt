@@ -1,0 +1,8 @@
+government = feudal_monarchy
+mercantilism = 0.25
+primary_culture = jerzilian
+religion = tirspell
+technology_group = western
+capital = 112 #Venezia
+
+national_focus = MIL
