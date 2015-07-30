@@ -1,0 +1,38 @@
+tlon_ideas = {
+	start = {
+		tolerance_heretic = 3
+		legitimacy = 1
+	}
+	
+	bonus = {
+		heathen_missionary_strength = 0.25 --missionary vs heathens
+	}
+	
+	trigger = {
+		tag = TLO
+		religion_group = tlonic
+	}
+	free = yes
+	
+	hronir = {
+		production_efficiency = 0.1
+	}
+	heresiarchy = {
+		stability_cost_modifier = -0.1
+	}
+	berkeleian_idealism = {
+  	fort_defense = 0.2
+	}
+	the_uqbarain = {
+		diplomatic_reputation = 1.5
+	}
+	autochthonous_mystics = {
+		manpower_recovery_speed = .1
+	}
+	our_noiseless_land = {
+		global_spy_defence = 0.2
+	}
+	the_labyrinth = {
+		hostile_attrition = 1
+	}
+}
