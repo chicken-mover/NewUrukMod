@@ -1,6 +1,6 @@
-#Country Name: Please see filename.
+# Tlön
 
-graphical_culture = northamericagfx
+graphical_culture = muslimgfx
 
 color = { 255 253 209 }
 
