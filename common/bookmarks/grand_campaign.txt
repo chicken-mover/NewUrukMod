@@ -10,5 +10,6 @@ bookmark =
 	country = SCY
 	country = NLW
 	country = DYR
+	country = TLO
 
 }
