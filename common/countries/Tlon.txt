@@ -1,0 +1,66 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 255 253 209 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Hlor #0" = 20
+	"Axaxaxas #0" = 20
+	"Aryaburxin #0" = 20
+	"Panuxar #0" = 20
+	"Semrehr #0" = 20
+	"Bokhtap #0" = 20
+	"Aphsin #0" = -20
+	"Khoda #0" = -20
+	"Dilborz #0" = -20
+	"Xamirah #0" = -20
+	"Phorozondeh #0" = -20
+	"Mipra #0" = -20}
+
+leader_names = {
+	Frimti Halikha Ulhax Loplop Risjekh
+}
+
+ship_names = {
+	"Narrow Shape"
+	"Lily of the Desert"
+	"Sandstorm"
+	"Night Mission"
+	"The Follower"
+	
+}
+
+army_names = {
+  "Army of the Heterodoxy"
+	"Army of $PROVINCE$"
+}
