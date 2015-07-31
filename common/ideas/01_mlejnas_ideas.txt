@@ -1,0 +1,38 @@
+mlejnas_ideas = {
+	start = {
+		missionaries = 1
+		prestige = 1
+	}
+	
+	bonus = {
+		infantry_power = 0.15
+	}
+	
+	trigger = {
+		tag = MLE
+		religion_group = tlonic
+	}
+	free = yes
+	
+	home_of_lost_objects = {
+		trade_steering = 0.15
+	}
+	inevitability = {
+		core_creation = -0.15
+	}
+	towers_of_blood = {
+  	discipline = 0.05
+	}
+	final_heresy = {
+		culture_conversion = -0.1
+	}
+	ancient_vault = {
+		global_manpower_modifier = 0.2
+	}
+	city_of_eyes = {
+		spy_offence = 0.2
+	}
+	always_underneath = {
+	  land_attrition = -0.15
+	}
+}
